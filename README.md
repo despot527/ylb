@@ -1,13 +1,10 @@
+💘取材于 https://github.com/FongMi，本站只是更改設定，使其更適合，台灣使用者。
 
-因為舊版本原創已經不升級，所以改用另一個版本，穩定度，相容性，擴充性更好。
+💥🅰➡下載電視(機上盒)版
+OK_catbox_TV_(Pro)-xxx.apk
+方法請看 ⏩下載　說明　(點我).md
+![image](https://raw.githubusercontent.com/despot527/ylb/main/src/DL0.jpg)
 
-更重要的是 擋廣告的功能更強(AI擋廣告)。
-
-
-1.下載電視(機上盒)版
-OK_catbox_TV_(Pro)-2.3.9.apk
-
-
-2.下載手機版
-OK_catbox_MOBIL_(Pro)-2.3.9.apk
-
+💥🅱➡下載手機版
+OK_catbox_MOBIL_(Pro)-xxx.apk
+方法請看 ⏩下載　說明　(點我).md
