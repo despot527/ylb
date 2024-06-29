@@ -33,8 +33,13 @@ OK_catbox_MOBIL_(Pro)-xxx.apk
 
 📟📟📟📟📟📟📟📟📟📟📟
 
-安裝Android模擬器在電腦上，就可以安裝apk了。
+安裝Android安卓模擬器在電腦上，就可以安裝apk了。
 
-比如在您的電腦上下載並安裝BlueStacks
+比如在您的電腦上下載並安裝 
+①雷電模擬器
+②安卓子系統WSA
+③夜神模擬器
+④BlueStacks
+擇一安裝
 
 📟📟📟📟📟📟📟📟📟📟📟
