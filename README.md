@@ -30,3 +30,11 @@ OK_catbox_TV_(Pro)-xxx.apk
 OK_catbox_MOBIL_(Pro)-xxx.apk
 
 方法請看 ⏩下載　說明　(點我).md
+
+📟📟📟📟📟📟📟📟📟📟📟
+
+安裝Android模擬器在電腦上，就可以安裝apk了。
+
+比如在您的電腦上下載並安裝BlueStacks
+
+📟📟📟📟📟📟📟📟📟📟📟
