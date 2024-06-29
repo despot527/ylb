@@ -13,6 +13,8 @@
 
 ![image](https://raw.githubusercontent.com/despot527/ylb/main/src/fileright.png)
 
+這個檔案存取權限一般不會任意跳出來，要是短暫要允許(比如你要備份設定)，事後也請手動關閉。
+
 📟📟📟📟📟📟📟📟📟📟📟
 
 💥🅰➡下載電視(機上盒)版
