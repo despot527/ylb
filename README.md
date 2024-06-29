@@ -9,6 +9,12 @@
 
 📟📟📟📟📟📟📟📟📟📟📟📟
 
+病毒說明：我問過相關創作者，他說:「程式本身沒有問題，程式碼放在github(全球公開放置程式代碼，可以公開審閱程式碼， https://zh.m.wikipedia.org/zh-tw/GitHub )，只要不要放置不明的jar就可以。保險做法是要是畫面要是有跳出檔案權限請【拒絕】。」
+
+![image](https://raw.githubusercontent.com/despot527/ylb/main/src/fileright.png)
+
+📟📟📟📟📟📟📟📟📟📟📟📟
+
 💥🅰➡下載電視(機上盒)版
 OK_catbox_TV_(Pro)-xxx.apk
 
